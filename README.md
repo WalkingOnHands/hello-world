@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+This is my first step into DevOps, Agile, and Node.js
